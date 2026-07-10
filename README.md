@@ -1,2 +1,60 @@
-# Pinned-Repositories
-Python Basics SQL Practice Excel Dashboard Data Analysis Projects Machine Learning Projects Resume Portfolio Website (baad mein)
+# Hi there 👋, I'm Rahul
+
+## 🎓 B.Tech Computer Science Graduate
+
+I'm an aspiring **Data Analyst** and **Python Developer** passionate about learning new technologies and building practical projects.
+
+🌱 Currently Learning
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Git & GitHub
+
+💼 Looking for
+- Internship
+- Entry-Level Jobs
+- Freelance Opportunities
+
+📫 Reach Me
+
+📧 Email: rahulbarua7657@gmail.com
+🔗 LinkedIn:Rahulbsrus
+https://linkedin.com/in/your-linkedin
+
+---
+
+## 🚀 Skills
+
+- Python
+- SQL
+- Excel
+- Git
+- GitHub
+
+---
+
+## 📚 Current Focus
+
+✔ Data Analysis
+
+✔ Machine Learning
+
+✔ Python Projects
+
+✔ Open Source Learning
+
+---
+
+## 🎯 2026 Goals
+
+- Build 20+ Projects
+- Learn Power BI
+- Master SQL
+- Learn Machine Learning
+- Contribute to Open Source
+- Get a Data Analyst Job
+
+---
+
+⭐ Thanks for visiting my profile!
