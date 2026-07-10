@@ -19,9 +19,8 @@ I'm an aspiring **Data Analyst** and **Python Developer** passionate about learn
 📫 Reach Me
 
 📧 Email: rahulbarua7657@gmail.com
-🔗 LinkedIn:Rahulbsrus
-https://linkedin.com/in/your-linkedin
-
+🔗 LinkedIn:Rahul Barua
+https:https://www.linkedin.com/in/rahul-barua-9282a2252/
 ---
 
 ## 🚀 Skills
